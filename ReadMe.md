@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------
 
-*  _**[Helper Bot]([https://github.com/FonixCommunity/HelperBot-py](https://github.com/FonixCommunity/Helper_Bot.py)**_
+*  _**[Helper Bot]((https://github.com/FonixCommunity/Helper_Bot.py)**_
   
 ---------------------------------------------------------------------------------------
 
