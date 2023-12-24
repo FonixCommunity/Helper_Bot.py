@@ -1,12 +1,12 @@
 ---------------------------------------------------------------------------------------
 
-*  _**[Helper Bot](https://github.com/FonixCommunity/Helper_Bot.py)**_
-  
----------------------------------------------------------------------------------------
+*  ***[Helper Bot](https://github.com/FonixCommunity/HelperBot-py){:target="_blank"}***
 
 ---------------------------------------------------------------------------------------
 
-- **That Bot Is Made By "[fonix_206](https://github.com/FonixCommunity)" on discord**
+---------------------------------------------------------------------------------------
+
+- **That Bot Is Made By "[fonix_206](https://github.com/FonixCommunity){:target="_blank"}" on discord**
 
 ---------------------------------------------------------------------------------------
 
@@ -14,9 +14,9 @@
 
 # **Some Information :**
 
-> * ****Discord Server**** [:safety_pin:](https://discord.gg/YUNUhkrzhg)
+> * ****Discord Server**** [:safety_pin:](https://discord.gg/YUNUhkrzhg){:target="_blank"}
 
-> * ****Do Not Forget To Respecte :**** [:safety_pin:](https://github.com/FonixCommunity/Helper_Bot.py/blob/main/LECENSE)
+> * ****Do Not Forget To Respecte :**** [:safety_pin:](https://github.com/FonixCommunity/Helper_Bot.py/blob/main/LECENSE){:target="_blank"}
 
 ---------------------------------------------------------------------------------------
 
