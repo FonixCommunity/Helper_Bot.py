@@ -56,6 +56,11 @@ from Class_Embeds.Embed_Say import say_cmd
 
 os.system('cls')
 
+"""
+* {cls} for windows users
+* {clear} for Linux users or other platform
+"""
+
 # Welcome Messages
 
 print(f"\n{W_U}\n")
