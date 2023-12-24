@@ -14,7 +14,7 @@
 
 > * ****Discord Server**** [:safety_pin:]("https://discord.gg/YUNUhkrzhg")
 
-> * ****Do Not Forget To Respecte :**** [:safety_pin:]("")
+> * ****Do Not Forget To Respecte :**** [:safety_pin:]("https://github.com/FonixCommunity/Helper_Bot.py/blob/main/LECENSE")
 
 ---------------------------------------------------------------------------------------
 
