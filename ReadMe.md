@@ -16,7 +16,7 @@
 
 > * ****Discord Server**** [:safety_pin:](https://discord.gg/YUNUhkrzhg)
 
-> * ****Do Not Forget To Respecte :**** [:safety_pin:](https://github.com/FonixCommunity/Helper_Bot.py/blob/main/LECENSE)
+> * ****Do Not Forget To Respecte All  Things Her**** [:safety_pin:](https://github.com/FonixCommunity/Helper_Bot.py/blob/main/LECENSE)
 
 ---------------------------------------------------------------------------------------
 
