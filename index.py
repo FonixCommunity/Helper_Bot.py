@@ -70,11 +70,32 @@ print(f"\n{W_U}\n")
 
 bot_base = commands.Bot(intents=discord.Intents.all(),command_prefix=BotInfo(TAG="PFX").CMDH)
 
+# Update Comming Soon
+        
+"""
+    /** Update **/
+
+    @SlashCommand
+
+        + Languages Settings +
+
+        => Change Languages For All Commands {language : Fr/EN}
+
+        + Slash Commands +
+
+        => Any Ideas
+    
+"""
+
 
 # Statrtup
 
 @bot_base.event
 async def on_ready():
+    # Stop
+    exit
+
+    
     global Statu
     global Emoji_Type
 
