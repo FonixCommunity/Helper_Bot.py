@@ -78,9 +78,10 @@ bot_base = commands.Bot(intents=discord.Intents.all(),command_prefix=BotInfo(TAG
 # Update Comming Soon
         
 """
+
     /** Update **/
 
-    @SlashCommand
+    @Slash_Command
 
         + Languages Settings +
 
